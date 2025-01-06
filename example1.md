@@ -27,7 +27,7 @@ __This is still a bold text__ <br>
 _This is still an italic text_ <br>
 ***This is bold and italic text***
 
-~~This is strikethrough~~
+~~This is strikethrough~~ <br>
 <ins>This is underline</ins>
 <hr>
 
